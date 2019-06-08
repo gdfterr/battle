@@ -1,0 +1,20 @@
+{
+    "name": "abc-net/battlebots-season-4-episode-1-tv-streaming",
+    "description": "Watch BattleBots Season 4 Episode 1 Online for Free Putlocker S04E01 WATCH FULL EPISODES NOW (CLICK LINK BELOW TO WATCHING)",
+	"keywords": ["BattleBots Season 4 Episode 1 Online"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/hjyiwhH6xD",
+            "homepage": "https://t.co/hjyiwhH6xD",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
